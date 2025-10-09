@@ -1,8 +1,8 @@
 # Welcome to my GitHub!
 
-<p>🔒 Specializing in Information Security and Pentesting 🔍
+<p>🔒 Specialized in Information Security and Pentesting 🔍
 
-🌐 Proficient in CSS, HTML, PHP, MySQL and diving into Python 🐍
+🌐 Proficient in CSS, HTML, PHP, MySQL, and Python 🐍
 
 📚 Always learning and sharing knowledge 🌟<p/>
 
